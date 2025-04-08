@@ -1,4 +1,4 @@
-# 📊 Sales Performance Dashboard - Superstore Dataset
+# 📊 Sales Analysis Dashboard - Superstore Dataset
 
 Welcome to my interactive Tableau dashboard project where I analyze and visualize sales performance using the popular **Sample Superstore** dataset. This dashboard uncovers key trends, product-level insights, and regional performance patterns that can drive smarter business decisions.
 
